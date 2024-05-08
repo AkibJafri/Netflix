@@ -25,13 +25,15 @@ To view the Netflix clone, simply [visit the live demo](#) or clone the reposito
 
 <img width="500" alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/35a8a093-403e-4bea-9519-1938751e21fd">
 <img width="500" alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/1bd39c96-2d32-4a48-91d1-a6da73c1e484">
-<img width="500" alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/dcdb02e7-c324-46ff-b24d-274a06adcbed">
+<img width="500" alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/f689817f-ee25-49b7-8fd1-310a1a641deb">
 <img width="500" alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/63921fde-1757-480e-924d-bb53b5fc8ee4">
 
 ## Mobile View
 <img width="174" alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/ce5ec519-5808-4aa1-8d83-9f1b2a60ad44">
 <img width="166" alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/47b1a174-e1fb-4868-b4e3-24adf1c5dce9">
 <img width="165" alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/0c707bb0-4485-478d-914c-07bf9b29e6df">
+<!-- <img width="194"  alt="image" src="https://github.com/AkibJafri/Netflix/assets/111608954/67423973-12f2-4334-a335-6f0b5db8e016">
+ -->
 
 
 
